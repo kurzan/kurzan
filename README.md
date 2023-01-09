@@ -3,6 +3,9 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=235a97)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=235a97)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=235a97)
 ![HTML](https://img.shields.io/badge/-HTML/CSS-090909?style=for-the-badge&logo=&logoColor=E9D54D)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=E9D54D)
