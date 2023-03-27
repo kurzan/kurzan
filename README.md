@@ -8,6 +8,8 @@
 ![HTML](https://img.shields.io/badge/-HTML/CSS-090909?style=for-the-badge&logo=&logoColor=E9D54D)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=E9D54D)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-090909?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mkurzov)
